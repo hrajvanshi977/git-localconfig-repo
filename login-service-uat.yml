@@ -1,0 +1,3 @@
+login-service:
+  minimum: 22
+  maximum: 3333
